@@ -1,0 +1,1 @@
+{id}, {str(time_to_float(input('введите время ухода') - a))})
